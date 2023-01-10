@@ -9,4 +9,4 @@ You can visit this this site by clicking below link
 
 #Credits
 
-I made this app with [ZAINKEEPSCODE](https://www.youtube.com/watch?v=P5VnLiGUmtY). This code is belongs to him.
+I made this app with [ZAINKEEPSCODE](https://www.youtube.com/watch?v=P5VnLiGUmtY). This code belongs to him.
