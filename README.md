@@ -1,6 +1,6 @@
 # amazon
 
-## This front end developed version of my first react app
+## This front end developed version of my first react e-commerce app
 
 You can visit this this site by clicking below link
 
